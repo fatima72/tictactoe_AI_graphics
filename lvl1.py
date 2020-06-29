@@ -1,8 +1,5 @@
 from __future__ import print_function
 import random
- 
-choices = []from __future__ import print_function
-import random
 
 choices = []
 print("\n**********WELCOME TO TIC TAC TOE GAME**********\n")
